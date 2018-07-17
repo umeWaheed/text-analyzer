@@ -1,0 +1,1 @@
+This is a testing file. It has lots of text and stuff in it. The file is for testing only. It can contain letters from a-z. Digits 0-9 and any kind of special characters. The frequencies of each can be counted. moreover, the word count & frequencies of lenghts are also given :0 bi
